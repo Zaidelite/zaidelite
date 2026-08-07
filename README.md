@@ -18,5 +18,5 @@ Final-year Undergraduate student in the Department of Mechanical Engineering at 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile-handle](https://www.linkedin.com/in/md-zaid-akhtar-2b19b0337/)
+- **LinkedIn:** [https://www.linkedin.com/in/md-zaid-akhtar-2b19b0337](https://www.linkedin.com/in/md-zaid-akhtar-2b19b0337)
 - **Email:** [zaidakhtarkgpian@gmail.com](mailto:zaidakhtarkgpian@gmail.com)
